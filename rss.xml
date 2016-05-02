@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[INSOFT's AI powered web-site]]></title>
-        <description><![CDATA[INSOFT's AI powered web-site]]></description>
+        <title><![CDATA[R&D in Ophtalmology]]></title>
+        <description><![CDATA[R&D in Ophtalmology]]></description>
         <link>https://thegrid.ai/insoft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 20:46:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 20:56:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/insoft/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Threshold Noiseless Trend (TNT) Progression Analysis]]></title>
+            <description><![CDATA[<article><h1>Threshold Noiseless Trend (TNT) Progression Analysis</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2a00ff8f37d02a3a39870109d0681d9e16ca157.jpg"></article>]]></description>
+            <link>https://thegrid.ai/insoft/threshold-noiseless-trend-tnt-progression-analysis/index.html</link>
+            <guid isPermaLink="false">dec3c65c-05e0-49c0-89d4-d88a6c4fafa2</guid>
+            <pubDate>Mon, 02 May 2016 20:56:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[LAGUNA ONhE]]></title>
             <description><![CDATA[<article><h1>LAGUNA ONhE</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b87eec4454fd64426968e3618e0f3a577f5bc8c.png"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/insoft/pulsar-perimetry/index.html</link>
             <guid isPermaLink="false">ece0083c-affd-4a65-ab42-eb3ffdd78bc1</guid>
             <pubDate>Mon, 02 May 2016 20:46:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Threshold Noiseless Trend (TNT) Progression Analysis]]></title>
-            <description><![CDATA[<article><h1>Threshold Noiseless Trend (TNT) Progression Analysis</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2a00ff8f37d02a3a39870109d0681d9e16ca157.jpg"></article>]]></description>
-            <link>https://thegrid.ai/insoft/threshold-noiseless-trend-tnt-progression-analysis/index.html</link>
-            <guid isPermaLink="false">dec3c65c-05e0-49c0-89d4-d88a6c4fafa2</guid>
-            <pubDate>Mon, 02 May 2016 20:46:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spark Perimetry]]></title>
