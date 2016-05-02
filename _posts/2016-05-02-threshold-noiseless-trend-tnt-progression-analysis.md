@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T20:46:07.350Z'
-dateModified: '2016-05-02T20:36:38.880Z'
+datePublished: '2016-05-02T20:56:08.530Z'
+dateModified: '2016-05-02T20:51:56.788Z'
 title: Threshold Noiseless Trend (TNT) Progression Analysis
 author:
   - name: ''
