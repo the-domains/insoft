@@ -5,10 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T20:40:15.720Z'
-dateModified: '2016-05-02T20:40:08.986Z'
+datePublished: '2016-05-02T20:44:43.168Z'
+dateModified: '2016-05-02T20:40:21.574Z'
 title: Spark Perimetry
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-05-02-spark-perimetry.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-spark-perimetry.md
-published: true
 url: spark-perimetry/index.html
 _type: Article
 
