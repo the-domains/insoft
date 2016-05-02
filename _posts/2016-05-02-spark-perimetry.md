@@ -1,19 +1,14 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T20:33:05.544Z'
-dateModified: '2016-05-02T20:32:55.780Z'
+datePublished: '2016-05-02T20:40:15.720Z'
+dateModified: '2016-05-02T20:40:08.986Z'
 title: Spark Perimetry
-author:
-  - name: ''
-    url: ''
-sourcePath: _posts/2016-05-02-spark-perimetry.md
-published: true
+author: []
 authors: []
 publisher:
   name: null
@@ -21,12 +16,15 @@ publisher:
   url: null
   favicon: null
 starred: false
-_context: 'http://schema.org'
+sourcePath: _posts/2016-05-02-spark-perimetry.md
+published: true
+url: spark-perimetry/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/df4a0e82656a1cc8239d04c1885db78161080871.jpg)
+# Spark Perimetry
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aba6b40e-a949-4b3a-b9aa-c531090d06ab.jpg)
 
-<article style=""><h1>Testing and Analysis - Easyfield® - SPARK Strategy - OCULUS, Inc.</h1><p>The SPARK examination strategy was primarily developed for Glaucoma patients and is available for all OCULUS perimeters. It is based on data from more than 90,000 perimetric findings and allows a very fast, yet very precise measurement of thresholds in the central visual field.</p></article>
+[The SPARK examination strategy was primarily developed for Glaucoma patients and is available for all OCULUS perimeters. It is based on data from more than 90,000 perimetric findings and allows a very fast, yet very precise measurement of thresholds in the central visual field.][0]
 
-http://www.oculus.de/us/products/perimetry/easyfield/perimetry-software/spark-strategy/\#produkte\_navi
+[0]: http://www.oculus.de/us/products/perimetry/easyfield/perimetry-software/spark-strategy/#produkte_navi
