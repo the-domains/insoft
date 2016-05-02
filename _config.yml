@@ -1,7 +1,7 @@
 name: INSOFT
 favicon: null
-layout_spectrum: 0.41070058732293546
-typography_spectrum: 0.7608930624555796
+layout_spectrum: 0.69278
+typography_spectrum: 0.8079
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#d50000'
     - '#800000'
   brandStrength: 0.7706646779552102
-  lightness: 0.21634194790385664
-  saturation: 0.8062075029592961
+  lightness: 0.4375
+  saturation: 0.5
   rhythmicContrast: 0.8116280871909112
 purpose: []
