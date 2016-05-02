@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T21:06:39.374Z'
-dateModified: '2016-05-02T21:06:32.502Z'
+datePublished: '2016-05-02T21:08:03.554Z'
+dateModified: '2016-05-02T21:06:47.793Z'
 title: Spark Perimetry
 author:
   - name: ''
