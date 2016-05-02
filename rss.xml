@@ -4,7 +4,7 @@
         <description><![CDATA[INSOFT's AI powered web-site]]></description>
         <link>https://thegrid.ai/insoft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 20:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 20:46:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/insoft/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[LAGUNA ONhE]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/insoft/laguna-onhe/index.html</link>
             <guid isPermaLink="false">796dc741-8495-4f19-ae20-4eb8e50daec1</guid>
             <pubDate>Mon, 02 May 2016 20:44:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Threshold Noiseless Trend (TNT) Progression Analysis]]></title>
+            <description><![CDATA[<article><h1>Threshold Noiseless Trend (TNT) Progression Analysis</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2a00ff8f37d02a3a39870109d0681d9e16ca157.jpg"></article>]]></description>
+            <link>https://thegrid.ai/insoft/threshold-noiseless-trend-tnt-progression-analysis/index.html</link>
+            <guid isPermaLink="false">dec3c65c-05e0-49c0-89d4-d88a6c4fafa2</guid>
+            <pubDate>Mon, 02 May 2016 20:46:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Spark Perimetry]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/insoft/pulsar-perimetry/index.html</link>
             <guid isPermaLink="false">ece0083c-affd-4a65-ab42-eb3ffdd78bc1</guid>
             <pubDate>Mon, 02 May 2016 20:29:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Threshold Noiseless Trend (TNT) Progression Analysis]]></title>
-            <description><![CDATA[<article><h1>Threshold Noiseless Trend (TNT) Progression Analysis</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2a00ff8f37d02a3a39870109d0681d9e16ca157.jpg"></article>]]></description>
-            <link>https://thegrid.ai/insoft/threshold-noiseless-trend-tnt-progression-analysis/index.html</link>
-            <guid isPermaLink="false">dec3c65c-05e0-49c0-89d4-d88a6c4fafa2</guid>
-            <pubDate>Mon, 02 May 2016 20:27:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
