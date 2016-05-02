@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T20:46:27.146Z'
-dateModified: '2016-05-02T20:32:09.660Z'
+datePublished: '2016-05-02T21:08:13.549Z'
+dateModified: '2016-05-02T21:07:03.497Z'
 title: Pulsar Perimetry
 author:
   - name: ''
