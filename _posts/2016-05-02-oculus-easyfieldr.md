@@ -1,16 +1,24 @@
 ---
-dateModified: '2016-05-02T06:56:51.987Z'
-hasPage: false
 inFeed: true
+hasPage: false
 inNav: false
-title: OCULUS Easyfield®
-description: "TNT provides a quantitative, statistical analysis of the visual field examination results conducted over time. For follow-up purposes, the software uses the visual field results and patient's threshold values supplied by 30-2, 30x24 or 24-2 grids over the entire examination period."
-author: []
-datePublished: '2016-05-02T07:09:50.489Z'
 isBasedOnUrl: 'http://www.oculus.de/en/products/perimeter/easyfield/perimeter-software/threshold-noiseless-trend-tnt-progressionsanalyse/'
-starred: false
+inLanguage: null
+keywords: []
+description: "TNT provides a quantitative, statistical analysis of the visual field examination results conducted over time. For follow-up purposes, the software uses the visual field results and patient's threshold values supplied by 30-2, 30x24 or 24-2 grids over the entire examination period."
+datePublished: '2016-05-02T07:31:26.286Z'
+dateModified: '2016-05-02T07:31:20.514Z'
+title: OCULUS Easyfield®
+author: []
 sourcePath: _posts/2016-05-02-oculus-easyfieldr.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
