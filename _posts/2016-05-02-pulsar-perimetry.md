@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T20:29:19.847Z'
-dateModified: '2016-05-02T20:24:48.862Z'
+datePublished: '2016-05-02T20:46:27.146Z'
+dateModified: '2016-05-02T20:32:09.660Z'
 title: Pulsar Perimetry
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-05-02-pulsar-perimetry.md
 published: true
 authors: []
@@ -23,7 +25,7 @@ _type: Article
 
 ---
 # Pulsar Perimetry
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81c507fc-7567-4350-ba55-fbccf5f7c2b3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/71d2bcf0e60e872605bd29be34d3c28364e62604.jpg)
 
 [Pulsar is a patented flicker stimulus, displaying a ring pattern with different contrast levels in counter-phase.][0]
 
