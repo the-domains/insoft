@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T20:31:35.809Z'
-dateModified: '2016-05-02T20:31:26.722Z'
+datePublished: '2016-05-02T20:44:27.171Z'
+dateModified: '2016-05-02T20:41:15.235Z'
 title: LAGUNA ONhE
 author: []
 sourcePath: _posts/2016-05-02-laguna-onhe.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: laguna-onhe/index.html
 _type: Article
 
