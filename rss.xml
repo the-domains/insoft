@@ -4,8 +4,15 @@
         <description><![CDATA[INSOFT's AI powered web-site]]></description>
         <link>https://thegrid.ai/insoft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 07:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 07:33:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/insoft/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Octopus® 600]]></title>
+            <description><![CDATA[<article><h1>Octopus® 600</h1><p>http://www.haag-streit.com/fr/product/perimetry/octopusr-600.html</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfd6b12e7642fead8d788cad199d76e8a6fd55d7.jpg"></article>]]></description>
+            <link>http://www.haag-streit.com/fr/product/perimetry/octopusr-600.html</link>
+            <guid isPermaLink="false">67d10214-6dea-43b7-a4ea-64b36250ec6f</guid>
+            <pubDate>Mon, 02 May 2016 07:33:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Laguna ONhE comparison]]></title>
             <description><![CDATA[<article><h1>Laguna ONhE comparison</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ac367083b8eb3faf08242e03a2468afe263f75f.png"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>http://www.oculus.de/en/products/perimeter/easyfield/perimeter-software/threshold-noiseless-trend-tnt-progressionsanalyse/</link>
             <guid isPermaLink="false">deb9d1ba-82d6-4130-bb24-713891c0f97f</guid>
             <pubDate>Mon, 02 May 2016 07:31:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Octopus® 600]]></title>
-            <description><![CDATA[<article><h1>Octopus® 600</h1><p>http://www.haag-streit.com/fr/product/perimetry/octopusr-600.html</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfd6b12e7642fead8d788cad199d76e8a6fd55d7.jpg"></article>]]></description>
-            <link>http://www.haag-streit.com/fr/product/perimetry/octopusr-600.html</link>
-            <guid isPermaLink="false">67d10214-6dea-43b7-a4ea-64b36250ec6f</guid>
-            <pubDate>Mon, 02 May 2016 07:09:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
