@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'http://www.haag-streit.com/fr/product/perimetry/octopusr-600.html'
-datePublished: '2016-05-02T13:23:06.010Z'
-dateModified: '2016-05-02T13:22:47.264Z'
+datePublished: '2016-05-02T13:24:00.546Z'
+dateModified: '2016-05-02T13:23:48.025Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-02-pulsar-perimetry.md
