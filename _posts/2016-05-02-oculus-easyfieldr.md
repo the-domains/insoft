@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://www.oculus.de/en/products/perimeter/easyfield/perimeter-so
 inLanguage: null
 keywords: []
 description: "TNT provides a quantitative, statistical analysis of the visual field examination results conducted over time. For follow-up purposes, the software uses the visual field results and patient's threshold values supplied by 30-2, 30x24 or 24-2 grids over the entire examination period."
-datePublished: '2016-05-02T07:34:01.105Z'
-dateModified: '2016-05-02T07:31:35.476Z'
+datePublished: '2016-05-02T07:36:51.656Z'
+dateModified: '2016-05-02T07:36:51.218Z'
 title: OCULUS Easyfield®
 author: []
 sourcePath: _posts/2016-05-02-oculus-easyfieldr.md
