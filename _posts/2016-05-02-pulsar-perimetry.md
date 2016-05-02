@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' Pulsar Perimetry'
-datePublished: '2016-05-02T07:47:04.353Z'
-dateModified: '2016-05-02T07:47:01.909Z'
+datePublished: '2016-05-02T07:53:00.645Z'
+dateModified: '2016-05-02T07:49:27.544Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-02-pulsar-perimetry.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,12 +18,10 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-pulsar-perimetry.md
-published: true
 url: pulsar-perimetry/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe84e3c2-2702-43c2-9938-a8a5d2da3103.jpg)
 
-Pulsar Perimetry
+**Pulsar Perimetry**
