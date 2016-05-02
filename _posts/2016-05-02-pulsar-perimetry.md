@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ' Pulsar Perimetry '
-datePublished: '2016-05-02T07:54:19.943Z'
-dateModified: '2016-05-02T07:53:49.377Z'
+description: 'http://www.haag-streit.com/fr/product/perimetry/octopusr-600.html'
+datePublished: '2016-05-02T13:23:06.010Z'
+dateModified: '2016-05-02T13:22:47.264Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-02-pulsar-perimetry.md
@@ -22,8 +22,7 @@ url: pulsar-perimetry/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe84e3c2-2702-43c2-9938-a8a5d2da3103.jpg)
-
-**Pulsar Perimetry **
+# Pulsar Perimetry
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8854d006-1541-4c95-a00b-013f2ed388d1.jpg)
 
 **http://www.haag-streit.com/fr/product/perimetry/octopusr-600.html**
