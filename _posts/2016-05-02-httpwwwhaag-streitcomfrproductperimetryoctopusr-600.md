@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'http://www.haag-streit.com/fr/product/perimetry/octopusr-600.html'
-datePublished: '2016-05-02T07:42:52.676Z'
-dateModified: '2016-05-02T07:42:33.499Z'
+datePublished: '2016-05-02T07:43:26.190Z'
+dateModified: '2016-05-02T07:43:17.093Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-02-httpwwwhaag-streitcomfrproductperimetryoctopusr-600.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-05-02-httpwwwhaag-streitcomfrproductperimetryoctopusr-600.md
-published: true
 url: httpwwwhaag-streitcomfrproductperimetryoctopusr-600/index.html
 _type: Article
 
