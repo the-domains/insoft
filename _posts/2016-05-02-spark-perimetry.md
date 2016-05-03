@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T21:08:03.554Z'
-dateModified: '2016-05-02T21:06:47.793Z'
-title: Spark Perimetry
+datePublished: '2016-05-03T10:26:57.593Z'
+dateModified: '2016-05-03T10:25:48.297Z'
+title: Spark strategy
 author:
   - name: ''
     url: ''
@@ -24,7 +24,7 @@ url: spark-perimetry/index.html
 _type: Article
 
 ---
-# Spark Perimetry
+# Spark strategy
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aba6b40e-a949-4b3a-b9aa-c531090d06ab.jpg)
 
 [The SPARK examination strategy was primarily developed for Glaucoma patients and is available for all OCULUS perimeters. It is based on data from more than 90,000 perimetric findings and allows a very fast, yet very precise measurement of thresholds in the central visual field.][0]
