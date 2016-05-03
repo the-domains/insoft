@@ -4,8 +4,15 @@
         <description><![CDATA[R&D in Ophthalmology]]></description>
         <link>https://thegrid.ai/insoft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 10:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 10:27:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/insoft/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pulsar stimuli]]></title>
+            <description><![CDATA[<article><h1>Pulsar stimuli</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71d2bcf0e60e872605bd29be34d3c28364e62604.jpg"></article>]]></description>
+            <link>https://thegrid.ai/insoft/pulsar-perimetry/index.html</link>
+            <guid isPermaLink="false">ece0083c-affd-4a65-ab42-eb3ffdd78bc1</guid>
+            <pubDate>Tue, 03 May 2016 10:27:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spark strategy]]></title>
             <description><![CDATA[<article><h1>Spark strategy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5dd6b1a7a8b33bd384bbe329a1fb3cf8f7bda1e.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/insoft/laguna-onhe/index.html</link>
             <guid isPermaLink="false">796dc741-8495-4f19-ae20-4eb8e50daec1</guid>
             <pubDate>Mon, 02 May 2016 21:08:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pulsar Perimetry]]></title>
-            <description><![CDATA[<article><h1>Pulsar Perimetry</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71d2bcf0e60e872605bd29be34d3c28364e62604.jpg"></article>]]></description>
-            <link>https://thegrid.ai/insoft/pulsar-perimetry/index.html</link>
-            <guid isPermaLink="false">ece0083c-affd-4a65-ab42-eb3ffdd78bc1</guid>
-            <pubDate>Mon, 02 May 2016 21:08:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
