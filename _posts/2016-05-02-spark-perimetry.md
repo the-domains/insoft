@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-03T10:26:57.593Z'
-dateModified: '2016-05-03T10:25:48.297Z'
+datePublished: '2016-05-04T11:56:25.837Z'
+dateModified: '2016-05-04T11:56:15.079Z'
 title: Spark strategy
 author:
   - name: ''
@@ -20,8 +21,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: spark-perimetry/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Spark strategy
