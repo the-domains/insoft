@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-03T10:27:30.397Z'
-dateModified: '2016-05-03T10:26:39.605Z'
+datePublished: '2016-05-04T11:56:17.924Z'
+dateModified: '2016-05-04T11:55:23.090Z'
 title: Threshold Noiseless Trend (TNT) Progression Analysis
 author: []
 sourcePath: _posts/2016-05-03-threshold-noiseless-trend-tnt-progression-analysis.md
@@ -18,8 +19,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: threshold-noiseless-trend-tnt-progression-analysis/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Threshold Noiseless Trend (TNT) Progression Analysis
