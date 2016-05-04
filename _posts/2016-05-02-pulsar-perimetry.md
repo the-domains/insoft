@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: 'Pulsar is a patented flicker stimulus, displaying a ring pattern with different contrast levels in counter-phase.'
-datePublished: '2016-05-04T09:06:43.373Z'
-dateModified: '2016-05-04T09:06:35.173Z'
+datePublished: '2016-05-04T11:56:54.774Z'
+dateModified: '2016-05-04T11:56:45.903Z'
 title: Pulsar stimuli
 author:
   - name: ''
@@ -20,8 +21,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: pulsar-perimetry/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Pulsar stimuli
