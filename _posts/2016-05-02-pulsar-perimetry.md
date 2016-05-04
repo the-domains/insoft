@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Pulsar is a patented flicker stimulus, displaying a ring pattern with different contrast levels in counter-phase.'
-datePublished: '2016-05-03T16:20:38.494Z'
-dateModified: '2016-05-03T16:20:08.411Z'
+datePublished: '2016-05-04T09:06:43.373Z'
+dateModified: '2016-05-04T09:06:35.173Z'
 title: Pulsar stimuli
 author:
   - name: ''
@@ -29,4 +29,4 @@ _type: Article
 
 [Pulsar is a patented flicker stimulus, displaying a ring pattern with different contrast levels in counter-phase.][0]
 
-[0]: https://www.haag-streit.com/haag-streit-diagnostics/products/perimetry/octopus-600/
+[0]: https://www.haag-streit.com/haag-streit-diagnostics/products/perimetry/octopus-600/#c932
