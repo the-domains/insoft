@@ -1,24 +1,17 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-05-04T11:54:46.358Z'
-dateModified: '2016-05-04T11:54:15.685Z'
-title: LAGUNA ONhE
-author: []
-sourcePath: _posts/2016-05-02-laguna-onhe.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-05-04T21:59:19.669Z'
+datePublished: '2016-05-04T21:59:39.521Z'
+hasPage: false
+inFeed: true
+inNav: false
+keywords: []
+publisher: {}
+title: LAGUNA ONhE
+description: ''
+author: []
 starred: false
+sourcePath: _posts/2016-05-02-laguna-onhe.md
 _type: Blurb
 
 ---
