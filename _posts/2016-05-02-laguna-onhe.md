@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-04T09:08:44.034Z'
-dateModified: '2016-05-04T09:07:06.503Z'
+datePublished: '2016-05-04T11:54:46.358Z'
+dateModified: '2016-05-04T11:54:15.685Z'
 title: LAGUNA ONhE
 author: []
 sourcePath: _posts/2016-05-02-laguna-onhe.md
@@ -18,8 +19,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: laguna-onhe/index.html
-_type: Article
+_type: Blurb
 
 ---
 # LAGUNA ONhE
