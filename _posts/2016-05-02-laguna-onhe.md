@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T11:21:20.811Z'
+datePublished: '2016-08-19T11:22:39.430Z'
 sourcePath: _posts/2016-05-02-laguna-onhe.md
 inFeed: true
 isBasedOnUrl: >-
@@ -9,7 +9,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T11:21:20.260Z'
+dateModified: '2016-08-19T11:22:38.896Z'
 title: LAGUNA ONhE
 publisher: {}
 description: Glaucoma diagnosis with fundus camera images.
