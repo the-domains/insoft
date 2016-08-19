@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T11:00:22.327Z'
+datePublished: '2016-08-19T11:19:28.024Z'
 sourcePath: _posts/2016-05-02-spark-perimetry.md
 inFeed: true
 isBasedOnUrl: >-
@@ -11,7 +11,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-19T11:00:21.738Z'
+dateModified: '2016-08-19T11:19:27.458Z'
 title: Spark strategy
 publisher: {}
 description: >-
