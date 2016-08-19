@@ -1,27 +1,30 @@
 ---
+datePublished: '2016-08-19T11:00:42.674Z'
+sourcePath: _posts/2016-05-02-pulsar-perimetry.md
 inFeed: true
+isBasedOnUrl: >-
+  https://www.haag-streit.com/haag-streit-diagnostics/products/perimetry/octopus-600/#c932
+authors: []
 hasPage: false
-inNav: false
-isBasedOnUrl: null
-inLanguage: null
 keywords: []
-description: 'Pulsar is a patented flicker stimulus, displaying a ring pattern with different contrast levels in counter-phase.'
-datePublished: '2016-05-04T11:56:54.774Z'
-dateModified: '2016-05-04T11:56:45.903Z'
-title: Pulsar stimuli
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-05-02-pulsar-perimetry.md
-published: true
-authors: []
+dateModified: '2016-08-19T11:00:42.178Z'
+title: Pulsar stimuli
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+description: >-
+  Pulsar is a patented flicker stimulus, displaying a ring pattern with
+  different contrast levels in counter-phase.
+inLanguage: null
+inNav: false
+via: {}
 starred: false
-_type: Blurb
+_type: MediaObject
 
 ---
 # Pulsar stimuli
