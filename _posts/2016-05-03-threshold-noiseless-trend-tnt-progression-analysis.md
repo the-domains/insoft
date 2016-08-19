@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T10:59:18.086Z'
+datePublished: '2016-08-19T11:19:13.500Z'
 sourcePath: _posts/2016-05-03-threshold-noiseless-trend-tnt-progression-analysis.md
 inFeed: true
 isBasedOnUrl: >-
@@ -10,7 +10,7 @@ keywords: []
 author:
   - {}
 via: {}
-dateModified: '2016-08-19T10:59:17.446Z'
+dateModified: '2016-08-19T11:19:12.935Z'
 title: Threshold Noiseless Trend (TNT) Progression Analysis
 publisher: {}
 description: >-
