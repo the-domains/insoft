@@ -1,27 +1,25 @@
 ---
-datePublished: '2016-08-19T10:45:53.799Z'
+datePublished: '2016-08-19T10:59:18.086Z'
 sourcePath: _posts/2016-05-03-threshold-noiseless-trend-tnt-progression-analysis.md
 inFeed: true
-isBasedOnUrl: null
+isBasedOnUrl: >-
+  http://www.oculus.de/en/products/perimetry/centerfield-2/perimetry-software/threshold-noiseless-trend-tnt-progression-analysis/#produkte_navi
 authors: []
 hasPage: false
 keywords: []
-author: []
-dateModified: '2016-08-19T10:45:53.198Z'
+author:
+  - {}
+via: {}
+dateModified: '2016-08-19T10:59:17.446Z'
 title: Threshold Noiseless Trend (TNT) Progression Analysis
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 description: >-
   TNT provides a quantitative, statistical analysis of the visual field
   examination results conducted over time.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
-_type: Blurb
+_type: MediaObject
 
 ---
 # Threshold Noiseless Trend (TNT) Progression Analysis
