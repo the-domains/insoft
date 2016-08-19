@@ -4,8 +4,15 @@
         <description><![CDATA[R&D in Ophthalmology]]></description>
         <link>http://insoft.es/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 11:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 11:19:15 GMT</lastBuildDate>
         <atom:link href="http://insoft.es/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Threshold Noiseless Trend (TNT) Progression Analysis]]></title>
+            <description><![CDATA[<article><h1>Threshold Noiseless Trend (TNT) Progression Analysis</h1><p>TNT provides a quantitative, statistical analysis of the visual field examination results conducted over time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9ebdddace9a9ca0d0ba1b8cb22b83fa5727bffd.jpg"></article>]]></description>
+            <link>http://www.oculus.de/en/products/perimetry/centerfield-2/perimetry-software/threshold-noiseless-trend-tnt-progression-analysis/#produkte_navi</link>
+            <guid isPermaLink="false">0748d120-e8ae-43ad-84c4-ab7dfab205ae</guid>
+            <pubDate>Fri, 19 Aug 2016 11:19:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PATH]]></title>
             <description><![CDATA[<article><h1>PATH</h1><p>Structure-function evaluation module</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7bcf49c-1061-42eb-8273-ba30d42a5b03.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://www.oculus.de/us/products/perimetry/easyfield/perimetry-software/spark-strategy/#produkte_navi</link>
             <guid isPermaLink="false">da1a2374-0fa9-4009-a493-ce4dd3d85cab</guid>
             <pubDate>Fri, 19 Aug 2016 11:00:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Threshold Noiseless Trend (TNT) Progression Analysis]]></title>
-            <description><![CDATA[<article><h1>Threshold Noiseless Trend (TNT) Progression Analysis</h1><p>TNT provides a quantitative, statistical analysis of the visual field examination results conducted over time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9ebdddace9a9ca0d0ba1b8cb22b83fa5727bffd.jpg"></article>]]></description>
-            <link>http://www.oculus.de/en/products/perimetry/centerfield-2/perimetry-software/threshold-noiseless-trend-tnt-progression-analysis/#produkte_navi</link>
-            <guid isPermaLink="false">0748d120-e8ae-43ad-84c4-ab7dfab205ae</guid>
-            <pubDate>Fri, 19 Aug 2016 10:59:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
