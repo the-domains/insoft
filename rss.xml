@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[R&D in Ophthalmology]]></title>
         <description><![CDATA[R&D in Ophthalmology]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://insoft.es/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 10:59:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Aug 2016 11:00:24 GMT</lastBuildDate>
+        <atom:link href="http://insoft.es/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spark strategy]]></title>
+            <description><![CDATA[<article><h1>Spark strategy</h1><p>The SPARK examination strategy was primarily developed for Glaucoma patients and is available for all OCULUS perimeters. It is based on data from more than 90,000 perimetric findings and allows a very fast, yet very precise measurement of thresholds in the central visual field.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5dd6b1a7a8b33bd384bbe329a1fb3cf8f7bda1e.jpg"></article>]]></description>
+            <link>http://www.oculus.de/us/products/perimetry/easyfield/perimetry-software/spark-strategy/#produkte_navi</link>
+            <guid isPermaLink="false">da1a2374-0fa9-4009-a493-ce4dd3d85cab</guid>
+            <pubDate>Fri, 19 Aug 2016 11:00:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Threshold Noiseless Trend (TNT) Progression Analysis]]></title>
             <description><![CDATA[<article><h1>Threshold Noiseless Trend (TNT) Progression Analysis</h1><p>TNT provides a quantitative, statistical analysis of the visual field examination results conducted over time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9ebdddace9a9ca0d0ba1b8cb22b83fa5727bffd.jpg"></article>]]></description>
