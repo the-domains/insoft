@@ -1,4 +1,3 @@
-layout_spectrum: 0.46341523597948253
 typography_spectrum: 0.22239536605775356
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.46341523597948253
 analytics:
   google: null
   facebook: null
@@ -27,6 +27,6 @@ cta:
   bucket: null
   version: null
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/721cebb3-b433-4a38-96ab-f690e816be8f.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0693579-dd4e-4eba-9e4c-faec395e71c9.png
 title: R&D in Ophthalmology
 purpose: []
