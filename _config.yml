@@ -1,4 +1,3 @@
-layout_spectrum: 0.19807245093397796
 typography_spectrum: 0.13972922088578343
 color:
   brandColors:
@@ -11,19 +10,22 @@ color:
   lightness: 0.875
   saturation: 0.875
   rhythmicContrast: 1
-name: INSOFT SL
-favicon: null
-title: R&D in Ophthalmology
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.19807245093397796
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3edbadd-d45e-463b-bdbe-32c36fe22e8d.png
+name: INSOFT SL
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: R&D in Ophthalmology
 purpose: []
