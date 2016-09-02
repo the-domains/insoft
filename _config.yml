@@ -26,6 +26,7 @@ cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/54e8bf8d-506d-422e-b2f2-00a576135a9c.png
 title: R&D in Ophthalmology
 purpose: []
